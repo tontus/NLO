@@ -7,11 +7,6 @@ package nlo;
 
 import java.awt.BorderLayout;
 import javax.swing.JFrame;
-import java.util.*;
-import javax.swing.BoxLayout;
-import javax.swing.JPanel;
-import org.jfree.data.xy.XYSeriesCollection;
-import org.jfree.ui.about.AboutPanel;
 
 /**
  *
